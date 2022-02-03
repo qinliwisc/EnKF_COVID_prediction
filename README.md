@@ -4,8 +4,9 @@ The source code for the paper [S. Chen, Q. Li, S. Gao, Y. Kang, X. Shi. State-sp
 
 ## Organization
 
+The repo root contains a code for model parameter inference using the Ensemble Kalman Filter and a code to convert the .csv/.txt data to .mat data.
+
 - `src`: contains the ODE model solvers with and without the proactive control measure (See (1) and (4) in the supporting material)
-- `examples`: contains a code to convert the .csv and .txt data to .mat data and a code for model parameter inference with the Ensemble Kalman Filter
 
 The run time could be between several minutes to several hours depending on the parameters you choose, e.g., the time step size and the number of states.
 
