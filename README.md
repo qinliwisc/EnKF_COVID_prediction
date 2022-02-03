@@ -1,6 +1,6 @@
 # State-specific projection of COVID-19 infection
 
-The source code for the paper [S. Chen, Q. Li, S. Gao, Y. Kang, X. Shi. State-specific projection of COVID-19 infection in the United States and evaluation of three major control measures. Scientific Reports volume 10, Article number: 22429 (2020).](https://www.nature.com/articles/s41598-020-80044-3).
+The source code for the paper [S. Chen, Q. Li, S. Gao, Y. Kang, X. Shi. State-specific projection of COVID-19 infection in the United States and evaluation of three major control measures. Scientific Reports volume 10, Article number: 22429 (2020)](https://www.nature.com/articles/s41598-020-80044-3).
 
 ## Organization
 
